@@ -1,8 +1,8 @@
 import React from 'react'
-import { Grid } from '@material-ui/core'
-import { Card } from '@material-ui/core'
-import { Container } from '@material-ui/core'
-import { Typography } from '@material-ui/core'
+import Grid from '@material-ui/core/Grid'
+import Card from '@material-ui/core/Card'
+import Container from '@material-ui/core/Container'
+import Typography from '@material-ui/core/Typography'
 
 const Forecast: React.FC = () => {
   return (
